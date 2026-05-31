@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Absensi/static/css/main.e62507e5.css",
+    "main.js": "/Absensi/static/js/main.27f1d8b3.js",
+    "index.html": "/Absensi/index.html",
+    "main.e62507e5.css.map": "/Absensi/static/css/main.e62507e5.css.map",
+    "main.27f1d8b3.js.map": "/Absensi/static/js/main.27f1d8b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62507e5.css",
+    "static/js/main.27f1d8b3.js"
+  ]
+}
